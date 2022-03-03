@@ -23,17 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/licence.gidsimulation.com",
     "slug": "licence-manager-login",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "uptime": "98.36%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Licence Manager - Login",
@@ -41,16 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/licence.gidsimulation.com",
     "slug": "licence-manager-login",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "uptime": "98.37%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   }
 ]
