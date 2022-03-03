@@ -11,8 +11,9 @@ sites:
     headers:
       - "Content-Type: application/json"
       - "Authorization: Basic $LOGIN_BASIC"
-    body: '{ "machine_name": "status" }'
+    body: '{ "machine_name": "status", "fingerprint":"gidsimulation@protonmail.com" }'
   - name: Licence Manager - View list licences
+    method: GET
     url: https://licence.gidsimulation.com/View/UserLicence
     headers:
       - "Authorization: Bearer $TOKEN_AUTH"
