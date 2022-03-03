@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/licence.gidsimulation.com",
     "slug": "licence-manager-login-api",
     "status": "down",
-    "uptime": "11.22%",
-    "uptimeDay": "11.22%",
-    "uptimeWeek": "11.22%",
-    "uptimeMonth": "11.22%",
-    "uptimeYear": "11.22%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-03-03": 0
+      "2022-03-03": 28
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1352,
-    "timeDay": 1352,
-    "timeWeek": 1352,
-    "timeMonth": 1352,
-    "timeYear": 1352,
+    "time": 1072,
+    "timeDay": 1072,
+    "timeWeek": 1072,
+    "timeMonth": 1072,
+    "timeYear": 1072,
     "dailyMinutesDown": {}
   }
 ]
