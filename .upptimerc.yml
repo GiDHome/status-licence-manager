@@ -11,6 +11,7 @@ sites:
     headers:
       - "User-Agent: Windows"
       - "Authorization: Basic $LOGIN_BASIC"
+    body: ""
   - name: Licence Manager - View list licences
     method: GET
     url: https://licence.gidsimulation.com/View/UserLicence
