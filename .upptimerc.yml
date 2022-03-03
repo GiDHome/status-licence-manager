@@ -5,15 +5,20 @@ repo: status-licence-manager
 sites:
   - name: Licence Manager
     url: https://licence.gidsimulation.com/
-  - name: Licence Manager - Login
+  - name: Licence Manager - Login - API
     method: POST
     url: https://licence.gidsimulation.com/v1/Auth/Login
     headers:
       - "Content-Type: application/json"
       - "Authorization: Basic $LOGIN_BASIC"
     body: '{ "machine_name": "status" }'
-  - name: Licence Manager - Login
+  - name: Licence Manager - View list licences
     url: https://licence.gidsimulation.com/View/UserLicence
+    headers:
+      - "Authorization: Bearer $TOKEN_AUTH"
+  - name: Licence Manager - list licences - API
+    method: GET
+    url: https://licence.gidsimulation.com/v1/UserLicence/List
     headers:
       - "Authorization: Bearer $TOKEN_AUTH"
 
