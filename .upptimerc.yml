@@ -7,9 +7,9 @@ sites:
     url: https://licence.gidsimulation.com/
   - name: Licence Manager - Login - API
     method: POST
-    url: https://licence.gidsimulation.com/v1/Auth/Login?machine_name=status&fingerprint=gidsimulation@protonmail.com
+    url: https://licence.gidsimulation.com/v1/Auth/Login?machine_name=status&fingerprint=gidsimulation
     headers:
-      - "Content-Type: application/json"
+      - "User-Agent: Windows"
       - "Authorization: Basic $LOGIN_BASIC"
   - name: Licence Manager - View list licences
     method: GET
