@@ -4,10 +4,10 @@
     "url": "https://licence.gidsimulation.com/",
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
@@ -15,17 +15,19 @@
     "timeWeek": 1598,
     "timeMonth": 1014,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Licence Manager - Login API",
     "url": "https://licence.gidsimulation.com/v1/Auth/Login?fingerprint=gidsimulation&machine_name=status",
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager-login-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.36%",
     "time": 700,
@@ -34,6 +36,7 @@
     "timeMonth": 662,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-12": 117,
       "2022-12-15": 220,
       "2022-11-10": 94,
@@ -52,10 +55,10 @@
     "url": "https://licence.gidsimulation.com/View/UserLicence",
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager-view-list-licences",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
@@ -63,7 +66,9 @@
     "timeWeek": 714,
     "timeMonth": 548,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Licence Manager - list licences API",
@@ -82,7 +87,7 @@
     "timeMonth": 148,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-01-25": 36,
+      "2023-01-25": 539,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
