@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 812,
-    "timeDay": 977,
-    "timeWeek": 819,
-    "timeMonth": 792,
-    "timeYear": 828,
+    "timeDay": 656,
+    "timeWeek": 820,
+    "timeMonth": 781,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2023-07-13": 16,
       "2023-01-25": 25
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.41%",
-    "time": 696,
-    "timeDay": 976,
-    "timeWeek": 988,
-    "timeMonth": 740,
-    "timeYear": 679,
+    "time": 697,
+    "timeDay": 900,
+    "timeWeek": 986,
+    "timeMonth": 749,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2023-08-10": 48,
       "2023-07-13": 58,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 2829,
-    "timeWeek": 2621,
-    "timeMonth": 1777,
-    "timeYear": 690,
+    "time": 734,
+    "timeDay": 2699,
+    "timeWeek": 2620,
+    "timeMonth": 1837,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2023-01-25": 24
     }
@@ -79,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager-list-licences-api",
     "status": "down",
-    "uptime": "0.19%",
+    "uptime": "0.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 161,
-    "timeDay": 162,
-    "timeWeek": 138,
-    "timeMonth": 135,
+    "timeDay": 113,
+    "timeWeek": 139,
+    "timeMonth": 133,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-08-21": 30,
+      "2023-08-22": 30,
+      "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -453,8 +454,7 @@
       "2022-08-26": 1440,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
-      "2022-08-23": 1440,
-      "2022-08-22": 1440
+      "2022-08-23": 1440
     }
   }
 ]
