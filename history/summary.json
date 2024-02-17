@@ -6,17 +6,16 @@
     "slug": "licence-manager",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 960,
-    "timeDay": 5782,
-    "timeWeek": 2127,
-    "timeMonth": 2412,
-    "timeYear": 1016,
+    "time": 959,
+    "timeDay": 674,
+    "timeWeek": 2106,
+    "timeMonth": 2409,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2024-02-16": 15,
       "2024-02-08": 18,
       "2023-07-13": 16
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
-    "time": 936,
-    "timeDay": 2155,
-    "timeWeek": 1689,
-    "timeMonth": 1406,
-    "timeYear": 1054,
+    "time": 937,
+    "timeDay": 1069,
+    "timeWeek": 1697,
+    "timeMonth": 1410,
+    "timeYear": 1056,
     "dailyMinutesDown": {
       "2024-02-08": 18,
       "2023-08-10": 48,
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 565,
-    "timeDay": 260,
-    "timeWeek": 193,
-    "timeMonth": 186,
-    "timeYear": 592,
+    "time": 564,
+    "timeDay": 147,
+    "timeWeek": 183,
+    "timeMonth": 185,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2024-02-08": 18,
       "2023-12-23": 21
@@ -81,11 +80,12 @@
     "uptimeYear": "0.00%",
     "time": 127,
     "timeDay": 73,
-    "timeWeek": 98,
-    "timeMonth": 95,
+    "timeWeek": 89,
+    "timeMonth": 94,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-02-16": 972,
+      "2024-02-17": 32,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -448,8 +448,7 @@
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440
+      "2023-02-18": 1440
     }
   }
 ]
