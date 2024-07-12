@@ -6,9 +6,9 @@
     "slug": "licence-manager",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 961,
     "timeDay": 7576,
@@ -16,10 +16,8 @@
     "timeMonth": 1543,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2024-07-11": 7,
       "2024-02-23": 17,
-      "2024-02-08": 18,
-      "2023-07-13": 16
+      "2024-02-08": 18
     }
   },
   {
@@ -29,9 +27,9 @@
     "slug": "licence-manager-login-api",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1219,
     "timeDay": 1486,
@@ -39,11 +37,9 @@
     "timeMonth": 1717,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2024-07-11": 7,
       "2024-02-23": 17,
       "2024-02-08": 18,
-      "2023-08-10": 48,
-      "2023-07-13": 58
+      "2023-08-10": 48
     }
   },
   {
@@ -53,9 +49,9 @@
     "slug": "licence-manager-view-list-licences",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 485,
     "timeDay": 161,
@@ -63,7 +59,6 @@
     "timeMonth": 221,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-07-11": 7,
       "2024-02-23": 17,
       "2024-02-08": 18,
       "2023-12-23": 21
@@ -86,7 +81,8 @@
     "timeMonth": 103,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-07-11": 1414,
+      "2024-07-12": 37,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -449,8 +445,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   }
 ]
