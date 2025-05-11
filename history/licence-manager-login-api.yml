@@ -1,7 +1,7 @@
 url: https://licence.gidsimulation.com/v1/Auth/Login?fingerprint=gidsimulation&machine_name=status
-status: down
-code: 503
-responseTime: 87
-lastUpdated: 2025-05-11T21:00:04.988Z
+status: up
+code: 200
+responseTime: 4030
+lastUpdated: 2025-05-11T21:16:10.059Z
 startTime: 2022-03-03T13:02:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
