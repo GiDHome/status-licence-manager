@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1143,
-    "timeDay": 830,
-    "timeWeek": 731,
-    "timeMonth": 752,
+    "time": 1144,
+    "timeDay": 941,
+    "timeWeek": 757,
+    "timeMonth": 757,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-07-25": 20,
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1764,
-    "timeDay": 1282,
-    "timeWeek": 1886,
-    "timeMonth": 1671,
+    "timeDay": 1356,
+    "timeWeek": 1652,
+    "timeMonth": 1666,
     "timeYear": 1777,
     "dailyMinutesDown": {
       "2025-07-25": 20,
@@ -81,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 201,
-    "timeDay": 250,
-    "timeWeek": 200,
-    "timeMonth": 202,
+    "timeDay": 279,
+    "timeWeek": 209,
+    "timeMonth": 204,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-07-25": 20,
@@ -110,15 +110,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/licence.gidsimulation.com.ico",
     "slug": "licence-manager-list-licences-api",
     "status": "down",
-    "uptime": "17.16%",
+    "uptime": "17.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.44%",
+    "uptimeYear": "60.71%",
     "time": 97,
-    "timeDay": 125,
-    "timeWeek": 99,
-    "timeMonth": 105,
+    "timeDay": 139,
+    "timeWeek": 104,
+    "timeMonth": 106,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2025-02-06": 625,
@@ -263,8 +263,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   }
 ]
